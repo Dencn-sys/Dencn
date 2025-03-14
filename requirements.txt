@@ -1,0 +1,14 @@
+tensorflow==2.13.0
+transformers==4.30.2
+web3==6.5.0
+fastapi==0.100.0
+uvicorn==0.22.0
+python-multipart==0.0.6
+pillow==10.0.0
+pytesseract==0.3.10
+opencv-python==4.8.0.74
+python-jose==3.3.0
+passlib==1.7.4
+sqlalchemy==2.0.19
+pydantic==2.0.3
+python-dotenv==1.0.0
