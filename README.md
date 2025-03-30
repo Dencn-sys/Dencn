@@ -154,7 +154,7 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ## Contact 📧
 
-[Twitter](https://x.com/Decen_Sys)
+[Twitter](https://x.com/Decen_live)
 
 ## Acknowledgments 🙏
 
